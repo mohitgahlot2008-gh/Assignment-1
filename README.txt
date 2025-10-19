@@ -16,4 +16,4 @@ REVERSE THE ARRAY, SORTING THE ARRAY AND LINEAR SEARCH OF AN ELEMNT IN AN ARRAY.
 -> FOR USE OF THESE TWO OBJECTIVES:-
 	* THERE IS A main.c FILE FOR USE OF THESE OBJECTIVE 1 AND 2 JUST COMPILE AND RUN IT AND FOLLOW THE INSTRUCTIONS AS THE COMMMAND LINE GIVES.
 
-___________________________________________________THANK YOU FOR USING THIS PROGRAM_______________________________________________________________________________
+_______________________________________THANK YOU FOR USING THIS PROGRAM_______________________________________________________________________________
