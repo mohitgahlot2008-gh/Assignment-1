@@ -1,6 +1,6 @@
-NAME-> 				MOHIT GAHLOT 
-SECTION-> 			AD1	     
-ROLL NUMBER->			34	     
+NAME-> 						MOHIT GAHLOT 
+SECTION-> 					AD1	     
+ROLL NUMBER->				34	     
 UNIVERSITY ROLL NUMBER->	12515000959  
 *******-------------------------*************
 HERE IS A SHOR STEP BY STEP WAY TO USE THESE PROGRAMS-->
